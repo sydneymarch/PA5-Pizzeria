@@ -1,0 +1,15 @@
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/bin/Debug/net8.0/mis-221-pa-5-sydneymarch
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/bin/Debug/net8.0/mis-221-pa-5-sydneymarch.deps.json
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/bin/Debug/net8.0/mis-221-pa-5-sydneymarch.runtimeconfig.json
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/bin/Debug/net8.0/mis-221-pa-5-sydneymarch.dll
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/bin/Debug/net8.0/mis-221-pa-5-sydneymarch.pdb
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.AssemblyInfoInputs.cache
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.AssemblyInfo.cs
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.csproj.CoreCompileInputs.cache
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.sourcelink.json
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.dll
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/refint/mis-221-pa-5-sydneymarch.dll
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.pdb
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/mis-221-pa-5-sydneymarch.genruntimeconfig.cache
+/Users/sydneymarch/Documents/MIS221/PA5/mis-221-pa-5-sydneymarch/obj/Debug/net8.0/ref/mis-221-pa-5-sydneymarch.dll

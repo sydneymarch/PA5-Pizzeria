@@ -1,0 +1,13 @@
+1#Pepperoni Pizza#2#Thin#12.99#False#False
+2#Margherita Pizza#3#Thick#10.99#False#False
+3#Veggie Delight#4#Gluten-Free#11.99#True#False
+4#Meat Lover's Pizza#4#Thick#15.99#False#False
+5#Cheese Pizza#3#Thick#10.99#False#False
+6#Pepperoni Mushroom Pizza#3#Thin#12.99#False#True
+7#Anchovie Pizza#2#Thin#13.99#False#True
+8#Hawaiian Pizza#4#Thin#12.99#False#False
+9#Supreme Pizza#7#Stuffed#14.99#False#False
+10#Double Cheese#3#Thin#13.99#False#False
+11#Cheese Lovers#3#Thick#14.99#False#True
+12#Chocolate Pizza#2#Thick#12.99#True#False
+13#Test Pizza#2#Thick#12.99#False#True

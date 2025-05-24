@@ -1,0 +1,6 @@
+manager#admin123#manager
+customer#guest123#customer
+sydney@email.com#march123#manager
+jeff@email.com#mis123#customer
+nutella@email.com#likethespread!#customer
+lily@email.com#cs123#customer
